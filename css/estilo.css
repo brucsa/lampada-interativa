@@ -4,7 +4,7 @@
 }
 
 body {
-    height: 0 100vh 100vh 100vh;
+    height:100vh;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -17,14 +17,14 @@ img {
 }
 
 div {
-    border: solid 3px #808080;
+    border: solid 3px #CC3945;
     border-radius: 15px;
     padding: 20px;
     width: 250px;
 }
 
 button {
-    background-color: #5e5e5e;
+    background-color: #7C2D45;
     color: #ffffff;
     width: 244px;
     height: 40px;
@@ -34,13 +34,13 @@ button {
 }
 
 button:hover {
-background-color: #f0a10f;
+background-color: #FCA91B;
 color: #000;
 }
 
 #btnQuebrar {
     background-color: #00000000;
-    color: #f0a10f;
+    color: #FCA91B;
     width: 244px;
     height: 40px;
     margin: 5px;
