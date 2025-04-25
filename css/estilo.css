@@ -34,13 +34,13 @@ button {
 }
 
 button:hover {
-background-color: #FCA91B;
+background-color: #CC3945;
 color: #000;
 }
 
 #btnQuebrar {
     background-color: #00000000;
-    color: #FCA91B;
+    color: #fff;
     width: 244px;
     height: 40px;
     margin: 5px;
