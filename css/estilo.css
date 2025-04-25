@@ -4,7 +4,7 @@
 }
 
 body {
-    height: 100vh;
+    height: 0 100vh 100vh 100vh;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -17,15 +17,15 @@ img {
 }
 
 div {
-    border: solid 3px gray;
+    border: solid 3px #808080;
     border-radius: 15px;
     padding: 20px;
     width: 250px;
 }
 
 button {
-    background-color: black;
-    color: white;
+    background-color: #5e5e5e;
+    color: #ffffff;
     width: 244px;
     height: 40px;
     margin: 5px;
@@ -40,7 +40,7 @@ color: #000;
 
 #btnQuebrar {
     background-color: #00000000;
-    color: rgb(248, 236, 1);
+    color: #f0a10f;
     width: 244px;
     height: 40px;
     margin: 5px;
